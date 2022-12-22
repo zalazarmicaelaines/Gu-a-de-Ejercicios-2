@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Nueva carpeta (2)\Clase3(Zalazar Micaela)\Clase3(Zalazar Micaela)\bin\Debug\net6.0\Clase3(Zalazar Micaela).exe
+C:\Users\Admin\Desktop\Nueva carpeta (2)\Clase3(Zalazar Micaela)\Clase3(Zalazar Micaela)\bin\Debug\net6.0\Clase3(Zalazar Micaela).deps.json
+C:\Users\Admin\Desktop\Nueva carpeta (2)\Clase3(Zalazar Micaela)\Clase3(Zalazar Micaela)\bin\Debug\net6.0\Clase3(Zalazar Micaela).runtimeconfig.json
+C:\Users\Admin\Desktop\Nueva carpeta (2)\Clase3(Zalazar Micaela)\Clase3(Zalazar Micaela)\bin\Debug\net6.0\Clase3(Zalazar Micaela).dll
+C:\Users\Admin\Desktop\Nueva carpeta (2)\Clase3(Zalazar Micaela)\Clase3(Zalazar Micaela)\bin\Debug\net6.0\Clase3(Zalazar Micaela).pdb
+C:\Users\Admin\Desktop\Nueva carpeta (2)\Clase3(Zalazar Micaela)\Clase3(Zalazar Micaela)\obj\Debug\net6.0\Clase3(Zalazar Micaela).csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Nueva carpeta (2)\Clase3(Zalazar Micaela)\Clase3(Zalazar Micaela)\obj\Debug\net6.0\Clase3(Zalazar Micaela).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Nueva carpeta (2)\Clase3(Zalazar Micaela)\Clase3(Zalazar Micaela)\obj\Debug\net6.0\Clase3(Zalazar Micaela).AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Nueva carpeta (2)\Clase3(Zalazar Micaela)\Clase3(Zalazar Micaela)\obj\Debug\net6.0\Clase3(Zalazar Micaela).AssemblyInfo.cs
+C:\Users\Admin\Desktop\Nueva carpeta (2)\Clase3(Zalazar Micaela)\Clase3(Zalazar Micaela)\obj\Debug\net6.0\Clase3(Zalazar Micaela).csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Nueva carpeta (2)\Clase3(Zalazar Micaela)\Clase3(Zalazar Micaela)\obj\Debug\net6.0\Clase3(Zalazar Micaela).dll
+C:\Users\Admin\Desktop\Nueva carpeta (2)\Clase3(Zalazar Micaela)\Clase3(Zalazar Micaela)\obj\Debug\net6.0\refint\Clase3(Zalazar Micaela).dll
+C:\Users\Admin\Desktop\Nueva carpeta (2)\Clase3(Zalazar Micaela)\Clase3(Zalazar Micaela)\obj\Debug\net6.0\Clase3(Zalazar Micaela).pdb
+C:\Users\Admin\Desktop\Nueva carpeta (2)\Clase3(Zalazar Micaela)\Clase3(Zalazar Micaela)\obj\Debug\net6.0\Clase3(Zalazar Micaela).genruntimeconfig.cache
+C:\Users\Admin\Desktop\Nueva carpeta (2)\Clase3(Zalazar Micaela)\Clase3(Zalazar Micaela)\obj\Debug\net6.0\ref\Clase3(Zalazar Micaela).dll
